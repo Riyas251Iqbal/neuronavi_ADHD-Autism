@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251549538717",
+    "project_id": "neuronavi-c2eaf",
+    "storage_bucket": "neuronavi-c2eaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251549538717:android:d65264e14b539836153774",
+        "android_client_info": {
+          "package_name": "com.example.neuronavi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHaa9vz8LZb32C-H8k7oSEDr634b1VEJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
